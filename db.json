@@ -629,6 +629,62 @@
       "count": 0,
       "date": 1665146995024,
       "id": 107
+    },
+    {
+      "point": "Чоловікам",
+      "category": "ВЗУТТЯ",
+      "brand": "REEBOK",
+      "model": "MODEL 1",
+      "price": 324,
+      "sale": false,
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/final-59c5a.appspot.com/o/model%201_shoes-men-3.jpg?alt=media&token=67f18fe4-8cbc-4932-9a48-0c5f4f3db224",
+      "size": "shoesSizes",
+      "addedToCart": false,
+      "count": 0,
+      "date": 1665772788277,
+      "id": 108
+    },
+    {
+      "point": "Жінкам",
+      "category": "ФУТБОЛКИ",
+      "brand": "REEBOK",
+      "model": "MODEL 2",
+      "price": 4532,
+      "sale": false,
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/final-59c5a.appspot.com/o/model%202_tshirts-women-2.jpeg?alt=media&token=54639268-be92-41a1-b877-fd35a1d683ee",
+      "size": "clothSizes",
+      "addedToCart": false,
+      "count": 0,
+      "date": 1665772931211,
+      "id": 109
+    },
+    {
+      "point": "Дітям",
+      "category": "ШОРТИ",
+      "brand": "ADIDAS",
+      "model": "MODEL 3",
+      "price": 4321,
+      "sale": false,
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/final-59c5a.appspot.com/o/model%203_pants-kids-3.jpeg?alt=media&token=c549daab-47fc-4ade-b11d-6018031ce81f",
+      "size": "clothSizes",
+      "addedToCart": false,
+      "count": 0,
+      "date": 1665772961357,
+      "id": 110
+    },
+    {
+      "point": "Чоловікам",
+      "category": "ФУТБОЛКИ",
+      "brand": "REEBOK",
+      "model": "MODEL 5",
+      "price": 6570,
+      "sale": false,
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/final-59c5a.appspot.com/o/model%205_tshirt-men-3.jpg?alt=media&token=958c07f1-5b94-4ab8-829b-4c30e439007b",
+      "size": "clothSizes",
+      "addedToCart": false,
+      "count": 0,
+      "date": 1665772996789,
+      "id": 111
     }
   ],
   "brands": [
