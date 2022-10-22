@@ -685,6 +685,62 @@
       "count": 0,
       "date": 1665772996789,
       "id": 111
+    },
+    {
+      "point": "Дітям",
+      "category": "ШОРТИ",
+      "brand": "ADIDAS",
+      "model": "NEW MODEL 1",
+      "price": 255,
+      "sale": false,
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/final-59c5a.appspot.com/o/new%20model%201_pants-kids-5.jpeg?alt=media&token=b0c4b200-0519-44e6-baa7-0e90688efbfd",
+      "size": "clothSizes",
+      "addedToCart": false,
+      "count": 0,
+      "date": 1666446569038,
+      "id": 112
+    },
+    {
+      "point": "Дітям",
+      "category": "ШОРТИ",
+      "brand": "REEBOK",
+      "model": "NEW MODEL 2",
+      "price": 520,
+      "sale": false,
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/final-59c5a.appspot.com/o/new%20model%202_pants-kids-3.jpeg?alt=media&token=098f7bc8-2122-46f9-a782-3bc8cb0d4aa9",
+      "size": "clothSizes",
+      "addedToCart": false,
+      "count": 0,
+      "date": 1666446598807,
+      "id": 113
+    },
+    {
+      "point": "Чоловікам",
+      "category": "ВЗУТТЯ",
+      "brand": "PUMA",
+      "model": "NEW SHOES FOR MEN 1",
+      "price": 580,
+      "sale": false,
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/final-59c5a.appspot.com/o/new%20shoes%20for%20men%201_shoes-men-1.jpg?alt=media&token=d60db1c8-2645-40e9-a51d-56417af5a651",
+      "size": "shoesSizes",
+      "addedToCart": false,
+      "count": 0,
+      "date": 1666446642621,
+      "id": 114
+    },
+    {
+      "point": "Жінкам",
+      "category": "ВЗУТТЯ",
+      "brand": "NEW BALANCE",
+      "model": "NEW SHOES MODEL 2",
+      "price": 2100,
+      "sale": false,
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/final-59c5a.appspot.com/o/new%20shoes%20model%202_shoes-women-3.jpeg?alt=media&token=20b7cca6-246d-4e31-a548-0a64f94e395a",
+      "size": "shoesSizes",
+      "addedToCart": false,
+      "count": 0,
+      "date": 1666446684909,
+      "id": 115
     }
   ],
   "brands": [
